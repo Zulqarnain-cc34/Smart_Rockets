@@ -179,11 +179,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/Zulqarnain-cc34//stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/Zulqarnain-cc34/Smart_Rockets/issues
+[stars-url]: https://github.com/Zulqarnain-cc34/stargazers
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/Zulqarnain-cc34/Smart_Rockets/blob/master/LICENSE.txt
+[license-url]: https://github.com/Zulqarnain-cc34/Smart_Rockets/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/muhammad-zulqarnain-a29664247 
 [product-screenshot]: https://github.com/Zulqarnain-cc34/Smart_Rockets/tree/main/smartRockets.png
